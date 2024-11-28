@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/clothshop/static/css/main.639f519a.css",
-    "main.js": "/clothshop/static/js/main.86014d4f.js",
+    "main.css": "/clothshop/static/css/main.52d37d60.css",
+    "main.js": "/clothshop/static/js/main.eee4c6bd.js",
     "static/media/bg.jpg": "/clothshop/static/media/bg.565b414e9b2d18aff31e.jpg",
     "static/media/logo.svg": "/clothshop/static/media/logo.602f42bc5247b6c8fc88dcf001c1a477.svg",
     "index.html": "/clothshop/index.html",
-    "main.639f519a.css.map": "/clothshop/static/css/main.639f519a.css.map",
-    "main.86014d4f.js.map": "/clothshop/static/js/main.86014d4f.js.map"
+    "main.52d37d60.css.map": "/clothshop/static/css/main.52d37d60.css.map",
+    "main.eee4c6bd.js.map": "/clothshop/static/js/main.eee4c6bd.js.map"
   },
   "entrypoints": [
-    "static/css/main.639f519a.css",
-    "static/js/main.86014d4f.js"
+    "static/css/main.52d37d60.css",
+    "static/js/main.eee4c6bd.js"
   ]
 }
