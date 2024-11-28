@@ -3,6 +3,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 
 const Hero = () => {
+  console.log('Environment:', process.env.NODE_ENV);
   return (
     <section className="h-[700px] bg-hero bg-no-repeat bg-cover bg-center py-20">
       <div className="container mx-auto flex justify-around h-full">
